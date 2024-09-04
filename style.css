@@ -1,0 +1,24 @@
+body{
+    height: 100%;
+    width:100%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+}
+.colm{
+    height: 60px;
+    width:60px;
+    border: 3px solid black;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: 3rem;
+}
+.row{
+    display :flex;
+
+}
+h1{
+    margin-left:50px;
+}
